@@ -13,4 +13,5 @@ Rails.application.routes.draw do
 
   get 'about' => "pages#about"
   get 'pricing' => "pages#pricing"
+  get 'test' => "pages#test"
 end

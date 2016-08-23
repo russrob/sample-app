@@ -6,7 +6,8 @@ class PagesController < ApplicationController
   def about 
   end
 
-
+def test 
+end
 
   def pricing
   end
